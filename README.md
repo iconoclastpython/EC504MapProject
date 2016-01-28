@@ -1,3 +1,5 @@
+Map Application
+
 This google map application is used to query a large data set of data(over 1GB), two kinds of query methods are supported:
 
 1. Query the nearest ten points by one given point.
